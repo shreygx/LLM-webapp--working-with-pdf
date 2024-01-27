@@ -23,7 +23,7 @@ with st.sidebar:
  
     ''')
     add_vertical_space(5)
-    st.write('Made by Shrey Gurbuxani with love for Kovida')
+    st.write('Made by Shrey Gurbuxani')
 
 
 load_dotenv()
